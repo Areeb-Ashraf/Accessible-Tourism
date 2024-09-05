@@ -1,5 +1,5 @@
 # Accessible-Tourism
 
 ### Collaborators
-- Areeb Ashraf
+- Areeb Ashraf 🐼
 - Chase Richardson
