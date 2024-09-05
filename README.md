@@ -2,3 +2,4 @@
 
 ### Collaborators
 - Areeb Ashraf
+- Chase Richardson
