@@ -3,3 +3,4 @@
 ### Collaborators
 - Areeb Ashraf 🐼
 - Chase Richardson
+- Josiah Larimer ✨
