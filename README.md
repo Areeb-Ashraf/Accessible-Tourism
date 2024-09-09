@@ -4,3 +4,4 @@
 - Areeb Ashraf 🐼
 - Chase Richardson 🪱
 - Josiah Larimer ✨
+- Sebastian Melendez
